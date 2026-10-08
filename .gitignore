@@ -1,0 +1,13 @@
+# Hermes runtime: credentials, sessions, memory, logs
+/data/hermes/
+
+# Personal Obsidian knowledge base
+/data/obsidian-vault/
+
+# Local backups
+/backups/
+
+# Local Compose overrides
+/.env
+/compose.override.yaml
+

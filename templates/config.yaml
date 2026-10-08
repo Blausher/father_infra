@@ -1,0 +1,12 @@
+terminal:
+  backend: local
+  cwd: /vault
+  timeout: 180
+  home_mode: auto
+
+database:
+  journal_mode: wal
+
+runtime:
+  nofile_soft_limit: 4096
+
